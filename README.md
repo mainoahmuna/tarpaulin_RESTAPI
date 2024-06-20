@@ -53,4 +53,4 @@ Developing the Tarpaulin API project provided valuable insights into several key
 - **Database Integration**: Utilizing MySQL for data storage and retrieval, including schema design and query optimization.
 - **Authentication and Security**: Implementing JWT authentication to secure API endpoints and manage user access.
 - **Error Handling and Validation**: Implementing robust error handling mechanisms and data validation to ensure data integrity and user experience.
-- **Documentation and Testing**: Creating comprehensive API documentation using Swagger and performing thorough testing with Postman to ensure reliability and functionality.
+- **API Testing**: Performing thorough testing with Postman to ensure reliability and functionality.
